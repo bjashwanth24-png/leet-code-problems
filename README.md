@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/0014-longest-common-prefix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -62,4 +63,44 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bjashwanth24-png/leet-code-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
